@@ -13,10 +13,10 @@ const contact = {
       name: "LinkedIn:",
       content: "linkedin.com/in/adissontejo",
     },
-    {
+    /*{
       name: "Currículo Lattes:",
       content: "lattes.cnpq.br/5560180174719440",
-    },
+    },*/
     {
       name: "Endereço:",
       content: "Avenida Conceição, 270, Jaguaribe\nJoão Pessoa - PB",

@@ -16,7 +16,7 @@ const abilities = {
     },
     {
       type: "Ferramentas:",
-      content: "Git, GitHub, VSCode, Docker, Docker Compose",
+      content: "Git, GitHub, VSCode, Docker, Docker Compose, Jest",
     },
   ],
 };
