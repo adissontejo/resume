@@ -3,7 +3,7 @@ const education = {
   list: [
     {
       institution: "Universidade Federal do Rio Grande do Norte",
-      graduation: "Bacharelado em Tecnologia da Informação",
+      graduation: "Bacharelando em Tecnologia da Informação",
       time: "2022-Atualmente",
       additional: [
         "Realiza o curso bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte",
