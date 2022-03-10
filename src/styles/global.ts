@@ -10,6 +10,10 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  body {
+    background: ${({ theme }) => theme.colors.primary};
+  }
+
   button {
     border: 0;
     background-color: transparent;
