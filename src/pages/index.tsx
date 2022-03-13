@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import Head from "next/head";
-import { BsDownload, BsBrush } from "react-icons/bs";
+import { BsDownload } from "react-icons/bs";
 import jsPDF from "jspdf";
 
 import {
@@ -12,6 +12,7 @@ import {
   Abilities,
   Experiences,
 } from "~/components";
+import { file } from "~/data";
 import { Column } from "~/styles/components";
 
 import { Main, Actions, Container } from "./styles";
@@ -26,7 +27,7 @@ const Home = () => {
       .html(ref.current, {
         html2canvas: { scale: 0.25 },
       })
-      .save("Ádisson.pdf");
+      .save(file.name);
   };
 
   return (
@@ -36,9 +37,6 @@ const Home = () => {
         <meta property="og:title" content="Currículo" key="title" />
       </Head>
       <Actions>
-        {/*<button type="button">
-          <BsBrush size={30} color="white" />
-        </button>*/}
         <button type="button" onClick={download}>
           <BsDownload size={30} color="white" />
         </button>
