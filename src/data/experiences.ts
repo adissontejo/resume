@@ -2,6 +2,14 @@ const experiences = {
   title: "Experiências",
   list: [
     {
+      name: "Weptek",
+      institution: "Trabalho Freelancer",
+      time: "2021-2022",
+      additional: [
+        "Participou da equipe desenvolvedora do projeto Weptek (weptek.com.br), plataforma de fornecimento de aplicativos de transporte coletivo, onde trabalhou na criação de uma aplicação PWA com ReactJS e uma aplicação backend com NodeJS",
+      ],
+    },
+    {
       name: "SBPO",
       institution: "Instituto Federal da Paraíba",
       time: "2021",
