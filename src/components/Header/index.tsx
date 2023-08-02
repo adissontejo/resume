@@ -1,14 +1,19 @@
-import { forwardRef, HTMLAttributes } from "react";
-
-import { header } from "~/data";
+import { useTranslation } from "next-i18next";
 
 import { Container, Name, Occupation } from "./styles";
 
-const Header = () => (
-  <Container>
-    <Name>{header.name}</Name>
-    <Occupation>{header.occupation}</Occupation>
-  </Container>
-);
+const Header = () => {
+  const { t } = useTranslation("header");
+
+  const name = t("name");
+  const occupation = t("occupation");
+
+  return (
+    <Container>
+      <Name>{name}</Name>
+      <Occupation>{occupation}</Occupation>
+    </Container>
+  );
+};
 
 export default Header;

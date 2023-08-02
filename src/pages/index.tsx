@@ -13,6 +13,7 @@ import {
   Experiences,
 } from "~/components";
 import { file } from "~/data";
+import { withTranslation } from "~/lib";
 import { Column } from "~/styles/components";
 
 import { Main, Actions, Container } from "./styles";
@@ -59,5 +60,15 @@ const Home = () => {
     </Main>
   );
 };
+
+export const getServerSideProps = withTranslation([
+  "abilities",
+  "awards",
+  "contact",
+  "education",
+  "experiences",
+  "header",
+  "profile",
+]);
 
 export default Home;

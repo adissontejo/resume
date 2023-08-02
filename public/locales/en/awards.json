@@ -1,0 +1,37 @@
+{
+  "title": "Awards",
+  "list": [
+    {
+      "competition": "2021 Theoretical Brazilian Robotics Olympiad",
+      "medal": "Gold Medal"
+    },
+    {
+      "competition": "2020 Theoretical Brazilian Robotics Olympiad",
+      "medal": "Gold Medal"
+    },
+    {
+      "competition": "2019 Brazilian Informatics Olympiad",
+      "medal": "Bronze Medal"
+    },
+    {
+      "competition": "2019 Informatics Olympiad from Paraíba",
+      "medal": "Gold Medal"
+    },
+    {
+      "competition": "2019 Theoretical Brazilian Robotics Olympiad",
+      "medal": "Bronze Medal"
+    },
+    {
+      "competition": "2019 Practical Brazilian Robotics Olympiad - National Phase",
+      "medal": "Finalist Medal"
+    },
+    {
+      "competition": "2019 Practical Brazilian Robotics Olympiad - State Phase",
+      "medal": "Silver Medal"
+    },
+    {
+      "competition": "2019 Practical Brazilian Robotics Olympiad - Regional Phase",
+      "medal": "Gold Medal"
+    }
+  ]
+}

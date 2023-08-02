@@ -1,0 +1,61 @@
+{
+  "title": "Experiences",
+  "list": [
+    {
+      "name": "Internship",
+      "institution": "Federal Court of Accounts",
+      "time": "2022-Now",
+      "additional": [
+        "Has been working as an intern in the Federal Court of Accounts of Brazil (TCU) as Oracle APEX systems developer, where he works with the creation of web applications and databases for the management of the institution's internal processes"
+      ]
+    },
+    {
+      "name": "Weptek",
+      "institution": "Freelancer Project",
+      "time": "2021-2022",
+      "additional": [
+        "Participated on the development team of the Weptek project (weptek.com.br), a platform for supplying collective transport applications, where he worked on the creation of a PWA application with ReactJS and a backend application with NodeJS"
+      ]
+    },
+    {
+      "name": "SBPO",
+      "institution": "Federal Institute of Paraíba",
+      "time": "2021",
+      "additional": [
+        "Participated on the elaboration of an article about Meta-heuristics Applied to Profiling Unauthorized Access to Government Systems, submitted and approved at the Brazilian Society for Operational Research, where he developed the programming and data clustering algorithms"
+      ]
+    },
+    {
+      "name": "PIBIC CNPq",
+      "institution": "Federal Institute of Paraíba",
+      "time": "2020-2021",
+      "additional": [
+        "Participated as a scholarship holder in the research project ROBIT, where he developed circuit boards and libraries for the Arduino IDE that are coupled to the creation of a low-cost and simple-to-use robotics kit"
+      ]
+    },
+    {
+      "name": "PIBIC CNPq",
+      "institution": "Federal Institute of Paraíba",
+      "time": "2019-2020",
+      "additional": [
+        "Participated as a scholarship holder in the research project Sun & Light, where he developed circuits for controlling solar protection elements in classrooms combined with programming through the prototyping board and the Arduino IDE"
+      ]
+    },
+    {
+      "name": "GREL",
+      "institution": "Federal Institute of Paraíba",
+      "time": "2019-2021",
+      "additional": [
+        "Was a member of the Free Educational Robotics Group, where he participated in robotics competitions at regional, state and national levels, and was a scholarship holder in CNPq research projects"
+      ]
+    },
+    {
+      "name": "POP",
+      "institution": "Federal Institute of Paraíba",
+      "time": "2018-2020",
+      "additional": [
+        "Participated on the Olympic Programming Project (POP), focused on competitive programming, where he learned programming languages such as C++ and Python, and competed in numerous programming olympiads and marathons, obtaining several medals in each one"
+      ]
+    }
+  ]
+}

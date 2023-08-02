@@ -1,0 +1,21 @@
+{
+  "title": "Educational Background",
+  "list": [
+    {
+      "institution": "Federal University of Rio Grande do Norte",
+      "graduation": "Bachelor of Information Technology",
+      "time": "2022-Now",
+      "additional": [
+        "Studies Information Technology at the Federal University of Rio Grande do Norte, Natal Campus"
+      ]
+    },
+    {
+      "institution": "Federal Institute of Paraíba",
+      "graduation": "Technical Course in Electronics",
+      "time": "2018-2021",
+      "additional": [
+        "Graduated in 2021 from the Technical Course in Electronics along with High School at the Federal Institute of Paraíba, João Pessoa Campus"
+      ]
+    }
+  ]
+}

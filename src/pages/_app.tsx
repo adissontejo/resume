@@ -1,6 +1,8 @@
+import { ThemeProvider } from "styled-components";
+import { appWithTranslation } from "next-i18next";
+
 import "~/config";
 
-import { ThemeProvider } from "styled-components";
 import { GlobalStyle, Fonts, theme } from "~/styles";
 
 const MyApp = ({ Component, pageProps }) => {
@@ -13,4 +15,4 @@ const MyApp = ({ Component, pageProps }) => {
   );
 };
 
-export default MyApp;
+export default appWithTranslation(MyApp);

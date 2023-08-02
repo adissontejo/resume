@@ -1,0 +1,37 @@
+{
+  "title": "Premiações",
+  "list": [
+    {
+      "competition": "Olimpíada Brasileira de Robótica de 2021 Teórica",
+      "medal": "Medalha de Ouro"
+    },
+    {
+      "competition": "Olimpíada Brasileira de Robótica de 2020 Teórica",
+      "medal": "Medalha de Ouro"
+    },
+    {
+      "competition": "Olimpíada Brasileira de Informática de 2019",
+      "medal": "Medalha de Bronze"
+    },
+    {
+      "competition": "Olimpíada Paraíbana de Informática de 2019",
+      "medal": "Medalha de Ouro"
+    },
+    {
+      "competition": "Olimpíada Brasileira de Robótica de 2019 Teórica",
+      "medal": "Medalha de Bronze"
+    },
+    {
+      "competition": "Olimpíada Brasileira de Robótica de 2019 Prática - Fase Nacional",
+      "medal": "Medalha de Finalista"
+    },
+    {
+      "competition": "Olimpíada Brasileira de Robótica de 2019 Prática - Fase Estadual",
+      "medal": "Medalha de Prata"
+    },
+    {
+      "competition": "Olimpíada Brasileira de Robótica de 2019 Prática - Fase Regional",
+      "medal": "Medalha de Ouro"
+    }
+  ]
+}

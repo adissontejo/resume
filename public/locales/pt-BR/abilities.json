@@ -1,0 +1,21 @@
+{
+  "title": "Habilidades Profissionais",
+  "list": [
+    {
+      "type": "Línguas:",
+      "content": "Português (nativo)\nInglês (intermediário)"
+    },
+    {
+      "type": "Linguagens de Programação:",
+      "content": "Javascript/Typescript, HTML/CSS, C, C++, Python, Ruby, shellscript, PostgreSQL"
+    },
+    {
+      "type": "Frameworks:",
+      "content": "React Native, ReactJS, NextJS, NodeJS, Ruby on Rails, VueJS"
+    },
+    {
+      "type": "Ferramentas:",
+      "content": "Git, GitHub, VSCode, Docker, Docker Compose, Jest"
+    }
+  ]
+}
